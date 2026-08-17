@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Przykładowe zdjęcie plaży</title>
+  <desc id="desc">Placeholder lokalnego zdjęcia inspiracji plażowej.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#f9d9a7" />
+      <stop offset="1" stop-color="#f5a97f" />
+    </linearGradient>
+    <linearGradient id="sea" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#50b5c6" />
+      <stop offset="1" stop-color="#196f89" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#sky)" />
+  <path d="M0 330 C230 275 390 370 610 320 C830 270 1010 340 1200 285 V700 H0 Z" fill="url(#sea)" />
+  <path d="M0 485 C210 420 370 515 560 470 C770 420 1000 515 1200 445 V700 H0 Z" fill="#efd29d" />
+  <path d="M0 525 C240 470 400 560 620 520 C840 480 1030 560 1200 500" fill="none" stroke="#fff5d6" stroke-width="12" opacity=".75" />
+  <circle cx="980" cy="135" r="68" fill="#fff0bb" opacity=".9" />
+  <text x="600" y="610" text-anchor="middle" font-family="sans-serif" font-size="34" fill="#264653">lokalne zdjęcie inspiracji — placeholder</text>
+</svg>
