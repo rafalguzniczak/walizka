@@ -8,7 +8,7 @@ tags:
 
 # Skrzynka pomysłów
 
-Tu trafiają wszystkie inspiracje, zanim zdecydujemy, gdzie dokładnie się znajdują i czy chcemy uwzględnić je w planie podróży.
+Tu trafiają inspiracje, dla których nie znamy jeszcze destynacji albo nie chcemy ich jeszcze przypisywać do konkretnej podróży.
 
 ## Jak korzystać
 
@@ -16,7 +16,7 @@ Tu trafiają wszystkie inspiracje, zanim zdecydujemy, gdzie dokładnie się znaj
 2. Uzupełnij osoby zainteresowane i priorytet.
 3. Dodaj lokalne zdjęcie do `content/inbox/media/`, jeśli je masz.
 4. Zapisz link do źródła, jeśli inspiracja pochodzi z filmu, posta, artykułu lub przewodnika.
-5. Po rozpoznaniu lokalizacji ustaw `destination` i `place`, a w treści dodaj wikilinki do właściwych stron.
+5. Po rozpoznaniu lokalizacji przenieś wpis do `content/inbox/<destynacja>/`, ustaw `destination` i `place`, a w treści dodaj wikilinki do właściwych stron.
 
 ## Skala ważności
 
@@ -35,15 +35,16 @@ Tu trafiają wszystkie inspiracje, zanim zdecydujemy, gdzie dokładnie się znaj
 - `planned` — uwzględniona w planie podróży,
 - `archived` — odrzucona, nieaktualna albo zduplikowana.
 
+## Skrzynki destynacji
+
+- [[inbox/tajlandia/|Tajlandia]]
+
 ## Przydatne tagi
 
 - [#inbox](../tags/inbox)
 - [Inspiracje Rafała](../tags/interested/rafal)
 - [Inspiracje Karoliny](../tags/interested/karolina)
 
-## Przykłady
+## Wpisy
 
-- [[inbox/plaza-z-instagrama|Plaża z Instagrama]]
-- [[inbox/nocny-market|Nocny market]]
-- [[inbox/wodospad-w-gorach|Wodospad w górach]]
-- [[inbox/warsztaty-kulinarne|Warsztaty kulinarne]]
+Wpisy dodamy tutaj, gdy zaczniemy zbierać prawdziwe inspiracje.
