@@ -24,9 +24,9 @@ Tabela będzie rozwijana o kolejne warianty. Porównujemy ofertę **Itaka – Zj
 
 | Element wycieczki | Itaka | Nasz plan | Z przewodnikiem | Uwagi |
 | --- | :---: | :---: | :---: | --- |
-| Krabi<br><small>brak biletu wstępu</small> | ✅ | — | ✅ | W wariancie z przewodnikiem baza po Khao Sok |
-| Ayutthaya<br><small>80 THB ≈ 9 zł / obiekt · 300 THB ≈ 34 zł karnet</small> | ✅ | — | ✅ | Zwiedzanie ruin dawnej stolicy |
-| Bangkok<br><small>brak biletu wstępu</small> | ✅ | — | ✅ | Wariant z przewodnikiem: 2 pierwsze noclegi |
+| [[destinations/tajlandia/miejsca/krabi|Krabi]]<br><small>brak biletu wstępu</small> | ✅ | — | ✅ | W wariancie z przewodnikiem baza po Khao Sok |
+| [[destinations/tajlandia/miejsca/ayutthaya|Ayutthaya]]<br><small>80 THB ≈ 9 zł / obiekt · 300 THB ≈ 34 zł karnet</small> | ✅ | — | ✅ | Zwiedzanie ruin dawnej stolicy |
+| [[destinations/tajlandia/miejsca/bangkok|Bangkok]]<br><small>brak biletu wstępu</small> | ✅ | — | ✅ | Wariant z przewodnikiem: 2 pierwsze noclegi |
 | Wielki Pałac i Świątynia Szmaragdowego Buddy<br><small>500 THB ≈ 57 zł</small> | ✅ | — | ✅ | Bangkok |
 | Wat Pho – Świątynia Leżącego Buddy<br><small>300 THB ≈ 34 zł</small> | ✅ | — | ✅ | Bangkok |
 | Wat Traimit – Świątynia Złotego Buddy<br><small>40–100 THB ≈ 5–11 zł, zależnie od zakresu</small> | ✅ | — | — | Nie ma w programie z przewodnikiem |
@@ -67,10 +67,10 @@ Tabela będzie rozwijana o kolejne warianty. Porównujemy ofertę **Itaka – Zj
 | Element | Itaka | Nasz plan | Z przewodnikiem | Uwagi |
 | --- | :---: | :---: | :---: | --- |
 | Lot Polska – Tajlandia – Polska | ✅ | — | ✅<br><small>poza ceną pakietu</small> | Dla wariantu z przewodnikiem przyjmujemy ok. 2900 zł/os. z bagażem |
-| Przeloty wewnętrzne | ✅ | — | ✅ | Itaka: Krabi → Bangkok; z przewodnikiem: Bangkok → Phuket i Phuket → Bangkok |
+| Przeloty wewnętrzne | ✅ | — | ✅ | Itaka: [[destinations/tajlandia/miejsca/krabi|Krabi]] → [[destinations/tajlandia/miejsca/bangkok|Bangkok]]; z przewodnikiem: [[destinations/tajlandia/miejsca/bangkok|Bangkok]] → [[destinations/tajlandia/miejsca/phuket|Phuket]] i [[destinations/tajlandia/miejsca/phuket|Phuket]] → [[destinations/tajlandia/miejsca/bangkok|Bangkok]] |
 | Transfery | ✅ | — | ✅ | W wariancie z przewodnikiem transport na miejscu jest zapewniony |
 | Transport drogowy na trasie objazdu | ✅ | — | ✅ | W wariancie z przewodnikiem zapewnione przejazdy między atrakcjami i punktami programu |
-| Transport wodny / promy w programie | ✅ | — | ✅ | Z przewodnikiem m.in. Krabi/Phi Phi, Phi Phi/Phuket i prywatny rejs wokół Phi Phi |
+| Transport wodny / promy w programie | ✅ | — | ✅ | Z przewodnikiem m.in. [[destinations/tajlandia/miejsca/krabi|Krabi]]/Phi Phi, Phi Phi/[[destinations/tajlandia/miejsca/phuket|Phuket]] i prywatny rejs wokół Phi Phi |
 | Opieka pilota | ✅ | — | ✅ | W cenie obu pakietów |
 | Lokalni przewodnicy | ✅ | — | ✅ | W cenie pakietu z przewodnikiem |
 | Ubezpieczenie KL i NW / medyczne | ✅ | — | ✅ | W cenie pakietu z przewodnikiem |
@@ -99,7 +99,7 @@ Poza ceną podstawową trzeba uwzględnić m.in.:
 - **Cena pakietu:** 8830 zł/os., czyli 17 660 zł / 2 osoby.
 - **Lot międzynarodowy:** poza ceną pakietu; do porównania przyjmujemy ok. 2900 zł/os. z bagażem.
 - **Noclegi:** 13 noclegów w hotelach 4★, pokoje 2-osobowe.
-- **Bazy noclegowe:** Bangkok → Kanchanaburi → Ayutthaya → Khao Lak → Krabi → Phi Phi.
+- **Bazy noclegowe:** [[destinations/tajlandia/miejsca/bangkok|Bangkok]] → Kanchanaburi → [[destinations/tajlandia/miejsca/ayutthaya|Ayutthaya]] → Khao Lak → [[destinations/tajlandia/miejsca/krabi|Krabi]] → Phi Phi.
 - **W cenie:** loty krajowe przewidziane w programie, wszystkie bilety wstępu do atrakcji z programu, transport na miejscu i pomiędzy atrakcjami, pilot i lokalni przewodnicy, ubezpieczenie medyczne, noclegi, codzienne śniadania oraz kolacja na statku w Bangkoku.
 - **Poza ceną:** lot Europa ↔ Tajlandia, obiady, większość kolacji, wydatki osobiste i opcje dodatkowe.
 
@@ -114,7 +114,7 @@ Ta tabela ma być wspólnym formatem dla wszystkich wariantów. **Nie doliczamy 
 | Cena bazowa wycieczki / pakietu | **7 279 zł/os.**<br><small>14 558 zł / 2 os.</small> | — | **8 830 zł/os.**<br><small>17 660 zł / 2 os.</small> | Cena samego pakietu lub usługi organizatora |
 | TFG / TFP i podobne opłaty organizatora | **30 zł/os.**<br><small>60 zł / 2 os.</small> | — | brak osobno wyszczególnionej opłaty | Obowiązkowe opłaty doliczane do ceny pakietu, jeżeli występują |
 | Loty międzynarodowe | w cenie | — | **ok. 2 900 zł/os.**<br><small>ok. 5 800 zł / 2 os., z bagażem</small> | Polska ↔ Tajlandia |
-| Loty wewnętrzne | w opłacie 290 USD | — | w cenie | Z przewodnikiem: Bangkok → Phuket i Phuket → Bangkok |
+| Loty wewnętrzne | w opłacie 290 USD | — | w cenie | Z przewodnikiem: [[destinations/tajlandia/miejsca/bangkok|Bangkok]] → [[destinations/tajlandia/miejsca/phuket|Phuket]] i [[destinations/tajlandia/miejsca/phuket|Phuket]] → [[destinations/tajlandia/miejsca/bangkok|Bangkok]] |
 | Noclegi | w cenie | — | w cenie<br><small>13 noclegów, hotele 4★</small> | Itaka: 7 noclegów w hotelach 3★ |
 | Transport między miastami | w cenie | — | w cenie | Autokar, pociągi, wynajem auta, promy itp. |
 | Transfery i transport lokalny | w cenie transfery<br><small>przejazdy w czasie wolnym osobno</small> | — | w cenie<br><small>transport między atrakcjami zapewniony</small> | Lotnisko ↔ hotel, przejazdy do atrakcji, taxi/Grab, metro itp. |
