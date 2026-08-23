@@ -76,6 +76,44 @@ Poza ceną podstawową trzeba uwzględnić m.in.:
 - ok. **6 USD/os./dzień** – napiwki,
 - dodatkowo płatne atrakcje fakultatywne, np. rejs w Bangkoku, Baiyoke Sky, kąpiel ze słoniami czy Asiatique/Calypso.
 
+## Podsumowanie kosztów
+
+Ta tabela ma być wspólnym formatem dla wszystkich wariantów. **Nie doliczamy drugi raz rzeczy oznaczonych „w cenie”**. Dla własnego planu zamiast ceny pakietu wpiszemy osobno loty, noclegi, transport, wejścia itd.
+
+> Kwoty Itaki są snapshotem oferty widocznej 23.08.2026 dla terminu **14–22.03.2027**, 2 osoby, wylot Warszawa-Okęcie. Kursy użyte do przeliczeń: **1 USD ≈ 3,693 PLN**, **1 THB ≈ 0,113 PLN**.
+
+| Kategoria kosztu | Itaka – Zjawiskowa Tajlandia | Nasz plan | Z przewodnikiem | Jak liczymy |
+| --- | ---: | ---: | ---: | --- |
+| Cena bazowa wycieczki / pakietu | **7 279 zł/os.**<br><small>14 558 zł / 2 os.</small> | — | — | Cena samego pakietu lub usługi organizatora |
+| TFG / TFP i podobne opłaty organizatora | **30 zł/os.**<br><small>60 zł / 2 os.</small> | — | — | Obowiązkowe opłaty doliczane do ceny pakietu |
+| Loty międzynarodowe | w cenie | — | — | Polska ↔ Tajlandia |
+| Loty wewnętrzne | w opłacie 290 USD | — | — | Np. Krabi → Bangkok |
+| Noclegi | w cenie | — | — | Itaka: 7 noclegów w hotelach 3★ |
+| Transport między miastami | w cenie | — | — | Autokar, pociągi, wynajem auta, promy itp. |
+| Transfery i transport lokalny | w cenie transfery<br><small>przejazdy w czasie wolnym osobno</small> | — | — | Lotnisko ↔ hotel, taxi/Grab, metro itp. |
+| Wejścia do atrakcji | w opłacie 290 USD | — | — | Tylko atrakcje z głównego programu |
+| Przewodnik / pilot | pilot w cenie<br><small>lokalni przewodnicy w opłacie 290 USD</small> | — | — | Przy wariancie prywatnym wpisujemy pełny koszt przewodnika |
+| Obowiązkowe opłaty na miejscu | **290 USD ≈ 1 071 zł/os.**<br><small>≈ 2 142 zł / 2 os.</small> | — | — | Itaka: wejścia + lokalni przewodnicy + lot Krabi–Bangkok |
+| Wyżywienie | 7 śniadań w cenie<br><small>obiady i kolacje: do oszacowania</small> | — | — | Liczymy tylko posiłki niewchodzące w pakiet |
+| Ubezpieczenie | w cenie | — | — | KL/NW; przy własnym planie wpisujemy polisę osobno |
+| Wiza / formalności / opłaty wjazdowe | do weryfikacji przed wyjazdem | — | — | Osobna pozycja, jeśli pojawi się opłata |
+| Napiwki obowiązkowe / zwyczajowe | **ok. 48 USD ≈ 177 zł/os.**<br><small>≈ 354 zł / 2 os.</small> | — | — | Itaka podaje ok. 6 USD/os./dzień; tu policzone dla 8 dni |
+| Atrakcje fakultatywne | **do ok. 5 250 THB ≈ 593 zł/os.**<br><small>≈ 1 186 zł / 2 os.</small> | — | — | Suma 4 fakultetów podanych przez Itakę |
+| Inne koszty poza programem | do oszacowania | — | — | Np. lokalne przejazdy w czasie wolnym, bagaż ponad limit |
+| **SUMA – minimum obowiązkowe znane** | **≈ 8 557 zł/os.**<br><small>≈ 17 114 zł / 2 os.</small> | — | — | Pakiet + TFG/TFP + 290 USD + napiwki; bez obiadów/kolacji i wydatków w czasie wolnym |
+| **SUMA – z wszystkimi 4 fakultetami Itaki** | **≈ 9 150 zł/os.**<br><small>≈ 18 301 zł / 2 os.</small> | — | — | Nadal bez obiadów/kolacji, lokalnych przejazdów w czasie wolnym i wydatków osobistych |
+
+### Zasady porównania kosztów
+
+Żeby późniejsze warianty były porównywalne:
+
+- **koszt obowiązkowy** = wszystko, czego nie da się pominąć, żeby zrealizować dany plan,
+- **koszt fakultatywny** = rzeczy, które chcemy zrobić, ale można je usunąć bez rozwalenia trasy,
+- rzeczy **wliczone w pakiet** pokazujemy jako „w cenie”, ale nie doliczamy ich ponownie do sumy,
+- jedzenie liczymy tylko w zakresie, w którym nie jest już w hotelu lub pakiecie,
+- podajemy zarówno **koszt na osobę**, jak i **łączny koszt dla 2 osób**,
+- wydatki osobiste (zakupy, alkohol, pamiątki itp.) trzymamy poza głównym porównaniem.
+
 ## Źródła cen
 
 - [ITAKA – Zjawiskowa Tajlandia](https://www.itaka.pl/wycieczki/tajlandia/krabi/zjawiskowa-tajlandia%2CKBVBAMX/)
