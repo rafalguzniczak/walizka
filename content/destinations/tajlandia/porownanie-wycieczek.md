@@ -39,8 +39,7 @@ Tabela będzie rozwijana o kolejne warianty. Porównujemy ofertę **Itaka – Zj
 | Asiatique Riverfront + Calypso<br><small>Asiatique: bezpłatnie · pakiet Calypso ok. 1700 THB ≈ 192 zł</small> | ◐ | — | — | Fakultatywne – cena Itaki |
 | Kanchanaburi<br><small>brak biletu wstępu</small> | ✅ | — | ✅ | 2 noce w wariancie z przewodnikiem |
 | Park Narodowy Erawan<br><small>300 THB ≈ 34 zł</small> | ✅ | — | ✅ | Wodospady i możliwość kąpieli |
-| Sanktuarium słoni<br><small>brak porównywalnego biletu – zwykle sprzedawane jako pakiet</small> | ✅ | — | ✅ | Bliskie spotkanie ze słoniem w programie |
-| Przejażdżka na słoniu<br><small>500 THB ≈ 57 zł</small> | — | — | ◐ | Opcja dodatkowa według oferty z przewodnikiem |
+| Sanktuarium słoni<br><small>brak porównywalnego biletu – zwykle sprzedawane jako pakiet</small> | ✅ | — | ✅ | Bliskie spotkanie i obserwacja słoni; bez przejażdżek na zwierzętach |
 | Kąpiel ze słoniami<br><small>ok. 1300 THB ≈ 147 zł</small> | ◐ | — | — | Fakultatywna – cena Itaki; oferta z przewodnikiem nie opisuje kąpieli |
 | Tam Krasae / fragment Kolei Śmierci<br><small>pociąg: 100 THB ≈ 11 zł</small> | ✅ | — | ✅ | W ofercie z przewodnikiem opisane jako „most śmierci” przy klifie |
 | Most na rzece Kwai<br><small>wstęp bezpłatny</small> | ✅ | — | ✅ | Spacer po moście i okolicy |
@@ -103,7 +102,6 @@ Poza ceną podstawową trzeba uwzględnić m.in.:
 - **Bazy noclegowe:** Bangkok → Kanchanaburi → Ayutthaya → Khao Lak → Krabi → Phi Phi.
 - **W cenie:** loty krajowe przewidziane w programie, wszystkie bilety wstępu do atrakcji z programu, transport na miejscu i pomiędzy atrakcjami, pilot i lokalni przewodnicy, ubezpieczenie medyczne, noclegi, codzienne śniadania oraz kolacja na statku w Bangkoku.
 - **Poza ceną:** lot Europa ↔ Tajlandia, obiady, większość kolacji, wydatki osobiste i opcje dodatkowe.
-- **Znany fakultet:** przejażdżka na słoniu ok. 500 THB/os.
 
 ## Podsumowanie kosztów
 
@@ -127,10 +125,10 @@ Ta tabela ma być wspólnym formatem dla wszystkich wariantów. **Nie doliczamy 
 | Ubezpieczenie | w cenie | — | w cenie | Wariant z przewodnikiem: ubezpieczenie medyczne |
 | Wiza / formalności / opłaty wjazdowe | do weryfikacji przed wyjazdem | — | obsługa procedur w cenie<br><small>ewentualne opłaty nie są osobno wyszczególnione</small> | Osobna pozycja, jeśli pojawi się opłata |
 | Napiwki obowiązkowe / zwyczajowe | **ok. 48 USD ≈ 177 zł/os.**<br><small>≈ 354 zł / 2 os.</small> | — | brak informacji w ofercie | Itaka podaje ok. 6 USD/os./dzień; tu policzone dla 8 dni |
-| Atrakcje fakultatywne | **do ok. 5 250 THB ≈ 593 zł/os.**<br><small>≈ 1 186 zł / 2 os.</small> | — | **od 500 THB ≈ 57 zł/os.**<br><small>≈ 113 zł / 2 os.</small> | Z przewodnikiem: w dokumencie wskazano przejażdżkę na słoniu jako opcję dodatkową |
+| Atrakcje fakultatywne | **do ok. 5 250 THB ≈ 593 zł/os.**<br><small>≈ 1 186 zł / 2 os.</small> | — | brak planowanych płatnych fakultetów | Dla wariantu z przewodnikiem nie uwzględniamy przejażdżek na słoniach |
 | Inne koszty poza programem | do oszacowania | — | do oszacowania | Głównie obiady, pozostałe kolacje, wydatki osobiste i transport podczas całkowicie wolnego czasu, jeśli nie jest zapewniony |
 | **SUMA – minimum obowiązkowe znane** | **≈ 8 557 zł/os.**<br><small>≈ 17 114 zł / 2 os.</small> | — | **≈ 11 730 zł/os.**<br><small>≈ 23 460 zł / 2 os.</small> | Z przewodnikiem: pakiet + założony lot międzynarodowy; bez obiadów/większości kolacji i wydatków osobistych |
-| **SUMA – z opisanymi fakultetami** | **≈ 9 150 zł/os.**<br><small>≈ 18 301 zł / 2 os.</small> | — | **≈ 11 787 zł/os.**<br><small>≈ 23 573 zł / 2 os.</small> | Itaka: wszystkie 4 wskazane fakultety; z przewodnikiem: wskazana w dokumencie przejażdżka na słoniu |
+| **SUMA – z opisanymi fakultetami** | **≈ 9 150 zł/os.**<br><small>≈ 18 301 zł / 2 os.</small> | — | **≈ 11 730 zł/os.**<br><small>≈ 23 460 zł / 2 os.</small> | Itaka: wszystkie 4 wskazane fakultety; z przewodnikiem: brak dodatkowych fakultetów uwzględnianych w budżecie |
 
 ### Zasady porównania kosztów
 
