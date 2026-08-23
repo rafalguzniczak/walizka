@@ -19,6 +19,10 @@ Planowana podróż i baza miejsc, które chciałbym odwiedzić. Na początek zbi
 - **Kraj:** Tajlandia
 - **Etap:** research miejsc
 
+## Planowanie
+
+- [[destinations/tajlandia/porownanie-wycieczek|Porównanie wycieczek po Tajlandii]]
+
 ## Miejsca do odwiedzenia
 
 - [[destinations/tajlandia/miejsca/bangkok|Bangkok]]
